@@ -1,2 +1,2 @@
 # My-new-Repository
-for javascript codes
+for javascript and swift 
